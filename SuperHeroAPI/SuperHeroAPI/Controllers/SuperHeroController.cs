@@ -83,7 +83,7 @@ namespace SuperHeroAPI.Controllers
 			}
 
 			heroes.Remove(hero);
-			return Ok(hero);
+			return Ok(heroes);
 		}
 	}
 }
