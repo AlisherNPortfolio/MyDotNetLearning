@@ -10,10 +10,10 @@ namespace SuperHeroAPI.Controllers
 		private static List<SuperHero> heroes = new List<SuperHero>
 		{
 			new SuperHero {
-					Id = 1, Name = "Spider Man",
-					FirstName = "Parker",
-					LastName = "Parker",
-					Place = "New York City"
+				Id = 1, Name = "Spider Man",
+				FirstName = "Parker",
+				LastName = "Parker",
+				Place = "New York City"
 			},
 			new SuperHero {
 				Id = 2,
