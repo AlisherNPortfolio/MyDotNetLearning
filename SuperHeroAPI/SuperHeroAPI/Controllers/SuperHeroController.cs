@@ -31,10 +31,17 @@ namespace SuperHeroAPI.Controllers
 			 }
 		};
 
+		private DataContext _context;
+
+		public SuperHeroController(DataContext context)
+		{
+			_context = context;
+		}
+
 		[HttpGet]
 		public async Task<ActionResult<List<SuperHero>>> Get()
 		{
-			return Ok(heroes);
+			return Ok(await _context.SuperHeroes.ToListAsync());
 		}
 
 		[HttpPost]
