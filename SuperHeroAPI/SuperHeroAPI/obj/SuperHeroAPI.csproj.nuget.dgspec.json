@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet Core\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj": {}
+    "d:\\DotNet Core\\Learning\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj": {}
   },
   "projects": {
-    "D:\\DotNet Core\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj": {
+    "d:\\DotNet Core\\Learning\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet Core\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+        "projectUniqueName": "d:\\DotNet Core\\Learning\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
         "projectName": "SuperHeroAPI",
-        "projectPath": "D:\\DotNet Core\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+        "projectPath": "d:\\DotNet Core\\Learning\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
         "packagesPath": "C:\\Users\\nasrullayev_a\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet Core\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
+        "outputPath": "d:\\DotNet Core\\Learning\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

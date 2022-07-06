@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4enCXLq7X9uVgfmPM44O+WjDR2AObb5cKnzO4PW1WW6Hvi1GKtbf85+Tdd58hMxfQAtkL9kCxhEDFdUFgqOjA==",
+  "dgSpecHash": "lr9laNQ1ZYoR+QkOmqvKWMAD312qcurvW6GTvqwr40Hald/mx1vNH2Ah1KWvut30RRttODgG7asj96Bsp0HPig==",
   "success": true,
-  "projectFilePath": "D:\\DotNet Core\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+  "projectFilePath": "d:\\DotNet Core\\Learning\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasrullayev_a\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nasrullayev_a\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
