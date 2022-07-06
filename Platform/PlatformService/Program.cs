@@ -16,6 +16,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseInMemoryDatabase("InMem") // InMem is a database name
 );
 
+builder.Services.AddScoped<IPlatformRepo, PlatformRepo>(); // Register Repository
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
